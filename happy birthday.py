@@ -1,3 +1,9 @@
+import numpy
+import transformers
+
+
+
+
 def print_birthday_message():
     birthday_message = [
             "████████████████████████████████████████████████████████████████████████████████████████████████████",
